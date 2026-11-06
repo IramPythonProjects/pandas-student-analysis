@@ -1,6 +1,6 @@
 # Student Result Analysis with Pandas
 
-This is my first Data Analysis project using Python and Pandas. I analyzed student result data using filtering techniques.
+This is my Data Analysis project using Python and Pandas. I analyzed student result data using filtering techniques.
 
 ## What I Did
 - Loaded CSV data using pd.read_csv()
