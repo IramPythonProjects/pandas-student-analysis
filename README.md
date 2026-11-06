@@ -12,7 +12,6 @@ This is my first Data Analysis project using Python and Pandas. I analyzed stude
 ## Tools Used
 - Python
 - Pandas
-- Google Colab / Pydroid 3 (Mobile)
 
 ## Files
 - students.csv - Dataset
